@@ -1,0 +1,3 @@
+name: guestbook-observability
+runtime: nodejs
+description: Pulumi Guestbook with Prometheus and Grafana

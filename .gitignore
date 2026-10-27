@@ -1,0 +1,13 @@
+node_modules/
+.pulumi/
+.env
+.env.*
+!.env.example
+*.log
+*.tfstate
+*.tfstate.*
+Pulumi.*.yaml
+!Pulumi.yaml
+*.passphrase
+*.key
+.DS_Store
